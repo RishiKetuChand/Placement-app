@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PlacementApp</string>
+
+
+    <string name="name">Name</string>
+    <string name="signUp">Sign Up</string>
+    <string name="logIn">Log In</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="usn">USN</string>
+    <string name="password">Password</string>
+    <string name="college">College</string>
+    <string name="alreadyAUser">Already a user - Login</string>
+    <string name="enterOtp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="changePhoneNumber">Change Phone Number</string>
+    <string name="newToOurApp">New to our app - Sign Up</string>
+    <string name="editNum">Edit Phone Number</string>
+    <string name="selectRole">Select Role</string>
+
+
+    <string name="addCompany">Add Company</string>
+    <string name="addCompanyDetails">Add Company Details</string>
+    <string name="viewCompany">View Company</string>
+    <string name="registeredStudent">Registered Student</string>
+    <string name="uploadStudentDetails">Upload Student Details</string>
+    <string name="placedStudents">Placed Students</string>
+    <string name="company_name">Company Name:</string>
+    <string name="recruitment_date">Recruitment Date:</string>
+    <string name="location">Location:</string>
+    <string name="allowed_department">Allowed Department:</string>
+    <string name="search">Search</string>
+    <string name="upload_placed_student_list_coloun">Upload Placed Student List:</string>
+    <string name="upload_placed_student_list">Upload Placed Student List</string>
+    <string name="select_file">Select File</string>
+    <string name="upload">Upload</string>
+    <string name="register">Register</string>
+    <string name="download">Download</string>
+    <string name="done">Done</string>
+
+    <string-array name="role">
+        <item name="student">Student</item>
+        <item name="professor">Placement Officer</item>
+    </string-array>
+
+    <string-array name="AllBranch">
+        <item name="ai">AI</item>
+        <item name="bio">BT</item>
+        <item name="cs">CS</item>
+        <item name="cv">CV</item>
+        <item name="ec">EC</item>
+        <item name="ee">EE</item>
+        <item name="ei">EI</item>
+        <item name="is">IS</item>
+        <item name="me">ME</item>
+        <item name="tx">TX</item>
+    </string-array>
+
+
+</resources>
